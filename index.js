@@ -1,5 +1,5 @@
-const {connectToDB} = require("./dbConnection")
-const Hotel = require("./hotel.model")
+const {connectToDB} = require("./BE4.3_HW2/dbConnection")
+const Hotel = require("./BE4.3_HW2/hotel.model")
 
 const express = require("express")
 const app = express()
